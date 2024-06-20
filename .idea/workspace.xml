@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea44d686-69fa-45f9-8300-ac72ad0fe890" name="Changes" comment="Complete Project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/LeaseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/SalesDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/VehicleDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/interfaces/LeaseInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/interfaces/SalesInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/DAO/interfaces/VehicleInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ps/Main.java" afterDir="false" />
+    <list default="true" id="ea44d686-69fa-45f9-8300-ac72ad0fe890" name="Changes" comment="Add remaining files listed as unversioned">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +78,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718822714638</updated>
-      <workItem from="1718822715745" duration="18242000" />
+      <workItem from="1718822715745" duration="19698000" />
     </task>
+    <task id="LOCAL-00001" summary="Complete Project with adjustments to include tweaks to match code to database format and produce proper results (such as removing type and getting vehicle by VIN instead while including all other specificities) and also incorporate some additional features such as updating database after selling / leasing to sold status and add ability to obtain contracts by VIN. Includes adding / removing / updating dealership and showcasing all vehicle details, as per requirement.">
+      <option name="closed" value="true" />
+      <created>1718843528162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718843528162</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add remaining files listed as unversioned">
+      <option name="closed" value="true" />
+      <created>1718843636432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718843636432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Complete Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete Project" />
+    <MESSAGE value="Complete Project with adjustments to include tweaks to match code to database format and produce proper results (such as removing type and getting vehicle by VIN instead while including all other specificities) and also incorporate some additional features such as updating database after selling / leasing to sold status and add ability to obtain contracts by VIN. Includes adding / removing / updating dealership and showcasing all vehicle details, as per requirement." />
+    <MESSAGE value="Add remaining files listed as unversioned" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add remaining files listed as unversioned" />
   </component>
 </project>
